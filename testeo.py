@@ -4,7 +4,8 @@
 # In[2]:
 
 
-a = 5
-b = 10
+a = int(input("Favor ingresar un valor"))
+b = int(input("Favor ingresar un valor"))
 c = a + b
+
 
